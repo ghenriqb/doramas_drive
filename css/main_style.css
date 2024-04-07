@@ -954,6 +954,23 @@ header{
     .container-ep .video-list{
         height: 300px;
     }
+    .play-container {
+        margin-top: 1rem !important;
+        /* border-radius: 5px; */
+        margin-bottom: 0.5rem;
+    }
+    .nav-link-title{
+        display: none;
+    }
+    .nav-link .bx{
+        font-size: 2rem;
+    }
+    .navbar{
+        background: linear-gradient(8deg, 
+        hsl(240, 1%, 16%) 5%,
+        hsl(240, 1%, 15%) 5%
+        );
+    }
 }
 
 /* <!-- second slider -->  */
